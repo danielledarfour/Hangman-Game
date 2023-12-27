@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.2.1">
+<file name="C:\Users\danie\Downloads\CIS\hw09_local_temp\src\main\java\org\cis1200\hangman\GameBoard.java">
+</file>
+<file name="C:\Users\danie\Downloads\CIS\hw09_local_temp\src\main\java\org\cis1200\hangman\SaveGame.java">
+</file>
+<file name="C:\Users\danie\Downloads\CIS\hw09_local_temp\src\main\java\org\cis1200\tictactoe\GameBoard.java">
+<error line="9" column="1" severity="warning" message="Redundant import from the same package - org.cis1200.tictactoe.TicTacToe." source="com.puppycrawl.tools.checkstyle.checks.imports.RedundantImportCheck"/>
+</file>
+</checkstyle>
